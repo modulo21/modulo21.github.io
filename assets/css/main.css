@@ -4043,6 +4043,7 @@ input, select, textarea {
 		background-image: linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
 		background-attachment: fixed;
 		background-position: center center;
+		max-width: 100%
 		background-repeat: no-repeat;
 		background-size: cover;
 		padding-top: 0;
@@ -4069,6 +4070,7 @@ input, select, textarea {
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
+		max-width: 100%;
 		background-size: cover;
 	}
 
