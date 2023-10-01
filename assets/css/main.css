@@ -2775,12 +2775,20 @@ input, select, textarea {
 					width: 100%;
 				}
 
+				.spotlight .iframe {
+					width: 100% !important; 					
+				}
+
 		}
 
 		@media screen and (max-width: 736px) {
 
 			.spotlight .content {
 				padding: 3em 2em 1em 2em ;
+			}
+
+			.spotlight .iframe {
+					width: 100% !important; 					
 			}
 
 		}
