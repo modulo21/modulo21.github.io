@@ -2577,12 +2577,10 @@ input, select, textarea {
 
 			.features li:nth-child(4) {
 				background-color: rgba(0, 0, 0, 0.14);
-				justify-self: center;
 			}
 
 			.features li:nth-child(5) {
 				background-color: rgba(0, 0, 0, 0.175);
-				justify-self: center;
 			}
 
 			.features li:nth-child(6) {
@@ -3053,6 +3051,7 @@ input, select, textarea {
 			.wrapper.style3 img {
  				margin-left: auto;
  				margin-right: auto;
+ 				max-width: 100%;
  				width: 100%;
  				align-content: center;
  				padding-bottom: 2em;
