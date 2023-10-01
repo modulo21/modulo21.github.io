@@ -3894,7 +3894,8 @@ input, select, textarea {
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
-		background-size: 100% 100%;
+		max-width: 100%;
+		background-size: cover;
 		text-align: center;
 	}
 
@@ -4045,7 +4046,7 @@ input, select, textarea {
 		background-position: center center;
 		max-width: 100%;
 		background-repeat: no-repeat;
-		background-size: 100% 100%;
+		background-size: cover;
 		padding-top: 0;
 	}
 
@@ -4059,9 +4060,10 @@ input, select, textarea {
 		background-image: -ms-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
 		background-image: linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
 		background-attachment: fixed;
+		max-width: 100%;
 		background-position: center center;
 		background-repeat: no-repeat;
-		background-size: 100% 100%;
+		background-size: cover;
 	}
 
 	body.is-mobile.landing #banner,
@@ -4074,7 +4076,7 @@ input, select, textarea {
 		background-position: center center;
 		background-repeat: no-repeat;
 		max-width: 100%;
-		background-size: 100% 100%;
+		background-size: cover;
 	}
 
 	body.is-mobile.landing #footer {
