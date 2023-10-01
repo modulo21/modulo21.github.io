@@ -4063,7 +4063,7 @@ input, select, textarea {
 		max-width: 100%;
 		background-position: center center;
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size: contain;
 	}
 
 	body.is-mobile.landing #banner,
@@ -4076,7 +4076,7 @@ input, select, textarea {
 		background-position: center center;
 		background-repeat: no-repeat;
 		max-width: 100%;
-		background-size: cover;
+		background-size: contain;
 	}
 
 	body.is-mobile.landing #footer {
