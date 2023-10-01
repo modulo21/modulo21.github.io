@@ -2795,6 +2795,38 @@ input, select, textarea {
 
 		}
 
+	.separator {
+		width: 0;
+		height: 0;
+		border-right: 100vw solid transparent;
+		border-bottom: 17.9vw solid #0b2545;
+		margin-top: -17.9vw;
+	}
+
+	.separator2 {
+		width: 0;
+		height: 0;
+		border-left: 100vw solid transparent;
+		border-bottom: 5.9vw solid #192c52;
+		margin-top: -5.9vw;
+	}
+
+	.separator3 {
+		width: 0;
+		height: 0;
+		border-right: 100vw solid transparent;
+		border-bottom: 8.9vw solid #203f70;
+		margin-top: -8.9vw;
+	}
+
+	.separator4 {
+		width: 0;
+		height: 0;
+		border-left: 100vw solid transparent;
+		border-bottom: 11.9vw solid #203f70;
+		margin-top: -11.9vw;
+	}
+
 /* Wrapper */
 
 	.wrapper {
