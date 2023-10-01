@@ -2817,7 +2817,7 @@ input, select, textarea {
 		height: 0;
 		border-left: 100vw solid transparent;
 		border-bottom: 5.9vw solid #192c52;
-		margin-top: -5.9vw;
+		margin-top: -1.9vw;
 	}
 
 	.separator2-bottom {
@@ -2833,7 +2833,7 @@ input, select, textarea {
 		height: 0;
 		border-right: 100vw solid transparent;
 		border-bottom: 8.9vw solid #203f70;
-		margin-top: -8.9vw;
+		margin-top: -2.9vw;
 	}
 
 	.separator3-bottom {
@@ -4053,7 +4053,11 @@ input, select, textarea {
 	}
 
 	body.is-mobile.landing #page-wrapper {
-		background: none;
+/*		background: none;*/
+		background-attachment: fixed;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
 	}
 
 	body.is-mobile.landing #banner,
@@ -4069,5 +4073,5 @@ input, select, textarea {
 	}
 
 	body.is-mobile.landing #footer {
-		background-color: #1d242a;
+/*		background-color: #1d242a;*/
 	}
