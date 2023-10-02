@@ -4091,6 +4091,60 @@ input, select, textarea {
     	background-size: cover;
 	}
 
+	@media screen and (max-width: 480px) {
+		body.landing #page-wrapper {
+		background-image: -moz-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
+		background-image: -webkit-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
+		background-image: -ms-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
+		background-image: linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
+		background-attachment: fixed;
+		background-position: center center;
+		max-width: 100%;
+		background-repeat: no-repeat;
+		-webkit-background-size: cover;
+    	-moz-background-size: cover;
+    	-o-background-size: cover;
+    	background-size: cover;
+		padding-top: 0;
+		}
+	}
+
+	@media screen and (max-width: 980px) {
+		body.landing #page-wrapper {
+		background-image: -moz-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
+		background-image: -webkit-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
+		background-image: -ms-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
+		background-image: linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
+		background-attachment: fixed;
+		background-position: center center;
+		max-width: 100%;
+		background-repeat: no-repeat;
+		-webkit-background-size: cover;
+    	-moz-background-size: cover;
+    	-o-background-size: cover;
+    	background-size: cover;
+		padding-top: 0;
+		}
+	}
+
+	@media screen and (max-width: 736px) {
+		body.landing #page-wrapper {
+		background-image: -moz-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
+		background-image: -webkit-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
+		background-image: -ms-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
+		background-image: linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
+		background-attachment: fixed;
+		background-position: center center;
+		max-width: 100%;
+		background-repeat: no-repeat;
+		-webkit-background-size: cover;
+    	-moz-background-size: cover;
+    	-o-background-size: cover;
+    	background-size: cover;
+		padding-top: 0;
+		}
+	}	
+
 	body.is-mobile.landing #footer {
 /*		background-color: #1d242a;*/
 	}
