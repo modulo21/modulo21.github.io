@@ -4074,21 +4074,21 @@ input, select, textarea {
     	background-size: 50%;
 	}
 
-	body.is-mobile.landing #banner,
+	/*body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
-/*		background-image: -moz-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
+		background-image: -moz-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
 		background-image: -webkit-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
-		background-image: -ms-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");*/
+		background-image: -ms-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
 		background-image: url("../../images/io.JPG");
 		background-attachment: fixed;
-/*		background-position: center center;*/
+		background-position: center center;
 		background-repeat: no-repeat;
 		max-width: 100%;
     	-webkit-background-size: 50%;
     	-moz-background-size: 50%;
     	-o-background-size: 50%;
     	background-size: 50%;
-	}
+	}*/
 
 	body.is-mobile.landing #footer {
 /*		background-color: #1d242a;*/
