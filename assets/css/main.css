@@ -4067,6 +4067,7 @@ input, select, textarea {
 		background-image: url("../../images/io.JPG");
 		max-width: 100%;
 /*		background-position: center center;*/
+		background-attachment: fixed;
 		background-repeat: no-repeat;
     	-webkit-background-size: cover;
     	-moz-background-size: cover;
