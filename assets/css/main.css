@@ -4060,7 +4060,7 @@ input, select, textarea {
 		background-color: rgba(255, 0, 0, 0);
 	}
 
-	body.is-mobile.landing #page-wrapper {
+	body.is-mobile.landing #banner {
 /*		background-image: -moz-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
 		background-image: -webkit-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
 		background-image: -ms-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");*/
@@ -4075,7 +4075,7 @@ input, select, textarea {
     	background-size: auto 50%;
 	}
 
-	/*body.is-mobile.landing #banner,
+	/*body.is-mobile.landing #page-wrapper,
 	body.is-mobile.landing .wrapper.style4 {
 		background-image: -moz-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
 		background-image: -webkit-linear-gradient(top, rgba(20,33,111,0.5), rgba(0,0,0,0.5)), url("../../images/io.JPG");
