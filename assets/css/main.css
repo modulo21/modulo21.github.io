@@ -4069,10 +4069,10 @@ input, select, textarea {
 		background-position: center center;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
-    	-webkit-background-size: cover;
-    	-moz-background-size: cover;
-    	-o-background-size: cover;
-    	background-size: cover;
+    	-webkit-background-size: auto 50%;
+    	-moz-background-size: auto 50%;
+    	-o-background-size: auto 50%;
+    	background-size: auto 50%;
 	}
 
 	/*body.is-mobile.landing #banner,
