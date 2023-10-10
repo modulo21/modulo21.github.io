@@ -4068,10 +4068,10 @@ input, select, textarea {
 		max-width: 100%;
 /*		background-position: center center;*/
 		background-repeat: no-repeat;
-    	-webkit-background-size: 50%;
-    	-moz-background-size: 50%;
-    	-o-background-size: 50%;
-    	background-size: 50%;
+    	-webkit-background-size: cover;
+    	-moz-background-size: cover;
+    	-o-background-size: cover;
+    	background-size: cover;
 	}
 
 	/*body.is-mobile.landing #banner,
